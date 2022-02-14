@@ -305,6 +305,10 @@ svg {
   vertical-align: middle;
 }
 
+.flotte {
+  float:left;
+  }
+
 table {
   caption-side: bottom;
   border-collapse: collapse;
